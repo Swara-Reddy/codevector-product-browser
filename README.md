@@ -21,18 +21,4 @@ node server.js
 
 # Screenshots
 
-## UI
-
-![UI](screenshots/ui.png)
-
-## API Response
-
-![API](screenshots/api.png)
-
-## Database Count
-
-![Count](screenshots/count.png)
-
-## Cursor Pagination
-
-![Pagination](screenshots/pagination.png)
+#attached in screenshots folder 
