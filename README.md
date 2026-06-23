@@ -18,3 +18,7 @@ How to Run
 npm install
 node seed.js
 node server.js
+
+# Screenshots
+
+#attached in screenshots folder 
